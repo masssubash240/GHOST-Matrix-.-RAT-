@@ -1,4 +1,4 @@
-# 🔍 JARVIis - Advanced Remote Administration Tool
+# 🔍 TROJAN - Advanced Remote Administration Tool
 JARVIS is a sophisticated Python-based remote administration and system monitoring tool designed for legitimate security research, authorized penetration testing, and educational purposes. The tool leverages Telegram's Bot API to provide a secure command-and-control interface for remote system management.
 
 **Primary Use Cases:**
